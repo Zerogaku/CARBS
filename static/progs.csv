@@ -76,3 +76,4 @@ A,mutt-wizard-git,is a light-weight terminal-based email system.
 ,nvidia-prime,for prime-run command
 ,mesa-demos,testing nvidia with glxgears and glxinfo
 ,rust,for compiling rust programs
+A,emacs-nativecomp,Emacs editor with native compilation
