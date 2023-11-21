@@ -1,0 +1,13 @@
+#+begin_src text
+      o__ __o           o           o__ __o         o__ __o       o__ __o
+     /v     v\         <|>         <|     v\       <|     v\     /v     v\
+    />       <\        / \         / \     <\      / \     <\   />       <\
+  o/                 o/   \o       \o/     o/      \o/     o/  _\o____
+ <|                 <|__ __|>       |__  _<|        |__  _<|        \_\__o__
+  \\                /       \       |       \       |       \             \
+    \         /   o/         \o    <o>       \o    <o>      /   \         /
+     o       o   /v           v\    |         v\    |      o     o       o
+     <\__ __/>  />             <\  / \         <\  / \  __/>     <\__ __/>
+#+end_src
+
+Personalized LARBS script to install programs for use with *Abyss-rice*.

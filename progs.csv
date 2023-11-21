@@ -74,6 +74,7 @@ A,mutt-wizard-git,is a light-weight terminal-based email system.
 ,bluez-utils,for bluetoothctl
 ,nvidia,nvidia support
 ,nvidia-prime,for prime-run command
-,mesa-demos,testing nvidia with glxgears and glxinfo
+,mesa-utils,testing nvidia with glxgears and glxinfo
 ,rust,for compiling rust programs
 A,emacs-nativecomp,Emacs editor with native compilation
+,beets,simple music tagger
