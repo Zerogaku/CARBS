@@ -72,8 +72,6 @@ A,mutt-wizard-git,is a light-weight terminal-based email system.
 ,socat,is a utility which establishes two byte streams and transfers data between them.
 ,moreutils,is a collection of useful unix tools.
 ,picom,compositor that fixes screentearing
-,bluez-dinit,bluetooth support (dinit)
-,bluez-utils,for bluetoothctl
 ,nvidia,nvidia support
 ,nvidia-prime,for prime-run command
 ,mesa-utils,testing nvidia with glxgears and glxinfo
