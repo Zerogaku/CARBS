@@ -4,7 +4,9 @@
 ,xorg-xinit,starts the graphical server.
 ,polkit,manages user policies.
 ,libertinus-font,provides the sans and serif fonts for LARBS.
+,noto-fonts,is an expansive font package
 ,ttf-font-awesome,provides extended glyph support.
+,noto-fonts-emoji,is an emoji font
 ,noto-fonts-cjk,asian fonts
 ,ttf-jetbrains-mono-nerd,monospace font with icons support
 ,ttf-dejavu,properly displays emojis.
@@ -63,7 +65,7 @@ A,simple-mtpfs,enables the mounting of cell phones.
 A,htop-vim,is a graphical and colorful system monitor.
 G,https://github.com/Zerogaku/Abyss-dwmblocks.git,serves as the modular status bar.
 G,https://github.com/Zerogaku/Abyss-dmenu.git,runs commands and provides a UI for selection.
-G,https://github.com/BeyondMagic/flarity.git,modern patched st
+G,https://github.com/Zerogaku/Abyss-flarity.git,modern patched st
 G,https://github.com/Zerogaku/Abyss-dwm.git,is the window manager.
 A,mutt-wizard-git,is a light-weight terminal-based email system.
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
